@@ -1,0 +1,23 @@
+body {
+	background-image: url('images/gradienta.jpg');
+	background-repeat: no-repeat;
+	background-size: cover; 
+}
+img {
+	float: left;
+	width: 30%;
+	height: 600px;
+	margin: 1.66%;
+	box-shadow: 2px 2px 6px;
+}
+
+p {
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
+	margin-left: 1.66%;
+	border-bottom: 2px solid #f1f1f1;
+	width: 30%;
+	padding-bottom: 20px;
+}
